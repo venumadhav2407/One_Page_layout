@@ -1,0 +1,134 @@
+html{
+    font-family: "Poppins", sans-serif, monospace;
+    background-color: black;
+    color: white;
+}
+
+#title{
+    font-size: 400%;
+    width: 60vmax;
+}
+
+.center{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+#image{
+    max-width: 70%;
+    height: auto;
+    display: block;
+    border: 5px solid;
+    border-color: aqua;
+    border-radius: 35px;
+}
+
+
+
+
+/* date */
+b{
+    color: aqua;
+}
+
+
+/* About him -link */
+#tribute-link{
+    text-decoration: none;
+    color: aqua;
+}
+
+
+/* footer ---------------------------------------------------------------*/
+#footer{
+    margin: 0px;
+    background-color: #333;
+    color: #fff; 
+    padding: 20px; 
+    text-align: center;   
+}
+
+
+/* col */
+
+.col{
+    padding-bottom: 20px;
+}
+
+
+#tribute-page{
+    border-radius: 25px;
+    text-align: center;
+    color: aqua;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#tribute-page{
+    border-right: 2px solid;
+}
+
+
+/* social links -----------------------------------------*/
+#social-link{
+    font-size: 25px;
+    padding-right: 10px;
+    color: aqua;
+}
+
+
+/* copy rights */
+
+.line{
+    border-top: 2px solid white;
+    padding-top: 10px;
+}
+
+
+.fa{
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive */
+@media only screen and (min-width: 480px){
+    
+}
+
+
+@media only screen and (min-width: 767px){
+
+}
+
+
+@media only screen and (min-width: 991px){
+
+}
+
+
+@media only screen and (min-width: 1200px){
+
+    .font{
+        padding: 0px 200px 15px 200px;
+    }
+
+}
+
+
+@media(orientation: landscape){
+
+}
